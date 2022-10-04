@@ -1,4 +1,4 @@
-# Book Suggestor
+# Food Recommender
 
 An app which suggests books of different genres.
 
