@@ -1,6 +1,6 @@
 # Food Recommender
 
-An app which suggests books of different genres.
+An app which suggests food of different cuisines.
 
 # Technologies used:-
 1. Html
